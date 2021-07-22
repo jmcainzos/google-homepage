@@ -1,23 +1,8 @@
-div {
-    
-}
-.top_menu {
-
-}
-#main_search {
-    
-}
-img {
-    position: relative;
-    top: 150px;
-}
-
-
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    overflow: initial;
   }
   
 li {
@@ -26,14 +11,14 @@ li {
   }
   
 li a {
-    display: block;
+    /* display: block;*/
     color: rgb(145, 56, 56);
     text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+    padding: 20px 20px;
+    /* text-decoration: none; */
   }
   
   /* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: #111;
+    background-color: rgb(14, 36, 233);
   }
