@@ -1,0 +1,39 @@
+div {
+    
+}
+.top_menu {
+
+}
+#main_search {
+    
+}
+img {
+    position: relative;
+    top: 150px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+li {
+    display: float;
+    float: left;
+  }
+  
+li a {
+    display: block;
+    color: rgb(145, 56, 56);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+  }
